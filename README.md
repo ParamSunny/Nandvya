@@ -110,15 +110,6 @@ frontend/
 
 ---
 
-## 📸 Screenshots (Add Yours)
-
-- Login Page
-- Dashboard
-- Add Waste Form
-- Waste Listing
-
----
-
 ## 🚀 How to Run
 
 ### Backend
